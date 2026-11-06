@@ -10,11 +10,12 @@
 ## 影哨豆瓣评分插件怎么安装？完整安装步骤
 
 想使用影哨，可以先从 Chrome 官方应用商店安装浏览器扩展。 建议优先选择官方渠道，不要随意下载来源不明的第三方安装包。
-**影哨官方网站：** [https://www.ysdb.cc](https://www.ysdb.cc/) 
 
-**影哨插件安装页面：** <https://www.ysdb.cc/download> 
+**影哨豆瓣插件官方网站：** [https://www.ysdb.cc](https://www.ysdb.cc/) 
 
-**Chrome 官方商店：** <https://chromewebstore.google.com/detail/hgnhkndkffbblbnkhgmhdmknlmceifae>
+**影哨豆瓣插件安装页面：** <https://www.ysdb.cc/download> 
+
+**影哨插件Chrome官方商店：** <https://chromewebstore.google.com/detail/hgnhkndkffbblbnkhgmhdmknlmceifae>
 
 
 ### 打开 Chrome 官方商店
@@ -144,8 +145,9 @@ Metacritic 更注重专业媒体综合评分，同时也提供用户评分。 Le
 
 对于经常使用豆瓣找电影的人来说，查询评分只是观影过程中的第一步。 真正让人觉得麻烦的，是不同评分平台之间不断切换，以及反复查询新片开分、热门剧集更新和流媒体上线时间。 影哨将这些日常需求结合起来，提供了多平台影视评分查询、豆瓣评分趋势分析、开分提醒、评分变化追踪，以及流媒体新片日历和热门榜单。 如果你正在寻找豆瓣评分增强大师类工具，想让电影评分查询变得更全面，又希望在关注新片时少一些重复操作，那么可以试试影哨。 它不需要改变原来的观影习惯，而是帮助你更方便地获取想看的影视信息。 从发现新片，到查看多平台口碑，再到关注开分和后续变化，影哨提供了一套比较完整的影视追踪方式。 **影哨——追踪每一次评分变化，不错过每一部期待的好电影。** 
 
-**影哨官方网站：** [https://www.ysdb.cc](https://www.ysdb.cc/) 
+
+**影哨豆瓣评分助手官方网站：** [https://www.ysdb.cc](https://www.ysdb.cc/) 
 
 **影哨插件安装教程：** <https://www.ysdb.cc/download> 
 
-**Chrome官方商店：** <https://chromewebstore.google.com/detail/hgnhkndkffbblbnkhgmhdmknlmceifae>
+**影哨豆瓣评分助手Chrome官方商店：** <https://chromewebstore.google.com/detail/hgnhkndkffbblbnkhgmhdmknlmceifae>
